@@ -1,0 +1,13 @@
+﻿
+如果100%的成分环节都是可靠的，那么 这个是否就为完全可靠？
+不可靠，即使存在1%，1%的环节出现问题，那就是不可靠了
+所以，我们得架构在可靠的基础上，
+减少不可靠的环节，那么我们就更可靠了
+
+	/history/current/branch/branching/willing/currentTarget/branchingTarget/willingTarget/
+
+api
+supportOut
+logicCore
+link/middleWare/connector/toucherTo/toucher
+actionWith
